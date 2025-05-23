@@ -23,7 +23,4 @@ Este proyecto es una aplicación web simple que implementa un sistema CRUD (Crea
 - **DataTables** (para la tabla dinámica)
 - **Bootstrap 5** (para diseño responsivo y moderno)
 
----
-
-## 📦 Estructura del Proyecto
 
